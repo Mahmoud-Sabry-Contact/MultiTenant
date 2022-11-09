@@ -34,6 +34,10 @@ const Tenant2Home = (props) => {
     dispatch(addT2Company({ name, address, email, phone, logo }));
   }
 
+  const _onProfilePressed = () => {
+    navigation.navigate('Tenant2Profile');
+  }
+
   const renderAddButton = () => {
     if (showAddButton) {
       return (
@@ -48,7 +52,7 @@ const Tenant2Home = (props) => {
 
   return (
     <ScrollView style={styles.container} >
-      <Header title={`Welcome ${user.name} on ${user.tenant}`} />
+      <Header title={`Welcome ${user.name} on ${user.tenant}`} _onProfilePressed={_onProfilePressed} />
       {showAddButton && renderAddButton()}
       <FlatList
         data={companies}

@@ -44,5 +44,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "resolutions": {
+    "immer": "9.0.12"
   }
 }

@@ -1,0 +1,90 @@
+{
+    "Tenant1": {
+      "companyProfile": {
+        "1": {
+          "address": "Test Address",
+          "email": "c1@tenant1.com",
+          "logo": "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWxzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "name": "Test Company",
+          "phone": "1234567890"
+        },
+        "-NGPxWxT-zjjL1JrtkGi": {
+          "address": "Address",
+          "email": "newcompany@tenant1.com",
+          "logo": "data:image/png;base64,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",
+          "name": "New company name",
+          "phone": "0112345678"
+        }
+      }
+    },
+    "Tenant2": {
+      "companyProfile": [
+        null,
+        {
+          "address": "Test Address",
+          "email": "c1@tenant2.com",
+          "logo": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI=",
+          "name": "Test Company 2",
+          "phone": "1234567890"
+        }
+      ]
+    },
+    "Tenant3": {
+      "companyProfile": [
+        null,
+        {
+          "address": "Test Address",
+          "email": "c1@tenant3.com",
+          "logo": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/images/headmast-desktop/welcomhotel-bhubaneswar.jpg",
+          "name": "Test Company 3",
+          "phone": "1234567890"
+        }
+      ]
+    },
+    "multiTenantDB": {
+      "Users": {
+        "admin1@tenant1": {
+          "admin": true,
+          "email": "admin1@tenant1.com",
+          "name": "Admin 1",
+          "password": "tenant1@123",
+          "tenant": "tenant1"
+        },
+        "admin2@tenant2": {
+          "admin": true,
+          "email": "admin1@tenant2.com",
+          "name": "Admin 2",
+          "password": "tenant2@123",
+          "tenant": "tenant2"
+        },
+        "admin3@tenant3": {
+          "admin": true,
+          "email": "admin3@tenant3.com",
+          "name": "Admin 3",
+          "password": "tenant3@123",
+          "tenant": "tenant3"
+        },
+        "user1@tenant1": {
+          "admin": false,
+          "email": "user1@tenant1.com",
+          "name": "user 1",
+          "password": "tenant1@123",
+          "tenant": "tenant1"
+        },
+        "user2@tenant2": {
+          "admin": false,
+          "email": "user2@tenant2.com",
+          "name": "user 2",
+          "password": "tenant2@123",
+          "tenant": "tenant2"
+        },
+        "user3@tenant3": {
+          "admin": false,
+          "email": "user3@tenant3.com",
+          "name": "user 3",
+          "password": "tenant3@123",
+          "tenant": "tenant3"
+        }
+      }
+    }
+  }
