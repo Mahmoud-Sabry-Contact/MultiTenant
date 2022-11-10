@@ -52,7 +52,7 @@
         },
         "admin2@tenant2": {
           "admin": true,
-          "email": "admin1@tenant2.com",
+          "email": "admin2@tenant2.com",
           "name": "Admin 2",
           "password": "tenant2@123",
           "tenant": "tenant2"
