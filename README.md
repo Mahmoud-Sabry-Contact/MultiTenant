@@ -1,6 +1,6 @@
-# Contact Mobile
+# MultiTenant Architecture
 
-Welcome to Contact Rewards Club 👋.
+Welcome to HotelBooking App 👋.
 
 ## Prerequisites
 
